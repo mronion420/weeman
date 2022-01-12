@@ -33,10 +33,12 @@ set url https://www.your website.com
 
 set port 8080
 
-action_url https://www.your website.com
+set action_url https://www.your website.com
 
 run
 
 ⚠️If you face any problem then massage on telegram:
 
 https://t.me/mronion420
+
+youtube video link:
