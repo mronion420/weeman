@@ -21,10 +21,22 @@ cd weeman
 
 chmod 777 ngrok
 
-【 paste your ngrok token 】
+⚠️【 paste your ngrok token 】
 
 ./ngrok http 8080
 
-【 open new session 】
+⚠️【 open new session 】
 
 python2 weeman.py
+
+set url https://www.your website.com
+
+set port 8080
+
+action_url https://www.your website.com
+
+run
+
+⚠️If you face any problem then massage on telegram:
+
+https://t.me/mronion420
